@@ -10,10 +10,3 @@ yarn-error.log
 
 # Code coverage
 coverage
-src/controllers
-src/models
-src/routes
-src/services
-src/utils
-src/validations
-src/docs
